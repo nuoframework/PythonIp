@@ -1,7 +1,4 @@
-# getip
-Sample script to get public and private IP from Python only with built-in libraries.
-It uses tkinter for GUI.
+# PythonIp
 
-For private ip it uses socket library.
 
-For public ip it uses urllib.request.
+This is a tool that is used to see your private and public ip and to locate any ip
